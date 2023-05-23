@@ -4,4 +4,4 @@ Hướng dẫn cài đặt UIPath: https://etonvn-my.sharepoint.com/:w:/g/person
 
 Bước 2: Import/Open file project.json vào UiPath Studio
 
-Bước 4: Run file
+Bước 3: Run file
